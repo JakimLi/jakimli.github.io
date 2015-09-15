@@ -1,0 +1,8 @@
+# Site settings
+title: Jakim Li 
+email: ljking7002@gmail.com
+twitter_username: jakimli
+github_username: jakimli
+
+# Build settings
+markdown: kramdown
