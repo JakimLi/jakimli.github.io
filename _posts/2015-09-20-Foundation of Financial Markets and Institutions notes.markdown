@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foundation of Financial Markets and Institutions 读书笔记
+title: Foundation of Financial Markets and Institutions 读书笔记之金融资产
 ---
 
 # 有形资产（Tangible Assets)
